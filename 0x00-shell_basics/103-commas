@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -maxF -1
+ls -maxF 
