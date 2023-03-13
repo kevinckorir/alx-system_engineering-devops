@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type f -empty -not -path '*/\.*' -printf '%f\n' , -type d -empty -not -path '*/\.*' -printf '%f\n'
